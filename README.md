@@ -1,8 +1,8 @@
-#useful-bash-scripts
+# useful-bash-scripts
 
-###pckg_mgmt
+### pckg_mgmt
 
 siu.sh - Small bash script that automates installing one or more packages on Linux distributions utilizing apt-get. Performs installation, updates, and upgrades.
 
-##Authors
+## Authors
 Alistair Z. Amick
